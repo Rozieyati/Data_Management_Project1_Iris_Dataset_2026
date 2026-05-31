@@ -1,4 +1,8 @@
-# Distributed Data Management Framework for Taxonomic Ingestion via Spark MLlib (STQD6324)
+# Distributed Data Management Framework for Taxonomic Ingestion via Spark MLlib 
+
+## Academic Report Asset
+**Course Project:** STQD6324 Data Management  
+**Official Assignment Title:** *An Enterprise Data Infrastructure and Governance Report: Design of Distributed Data Management Pipelines and Schema Governance Using Apache Spark* 
 
 ## Project Overview
 This repository contains a master-level implementation of a distributed data management pipeline built using Apache Spark (PySpark) on Google Colab. The project focuses on core data management principles, including automated data pipelining, schema enforcement, data quality profiling, and hyperparameter optimization using Grid Search and 5-Fold Cross-Validation.
